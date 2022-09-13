@@ -12,102 +12,12 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hungeo219.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Sep 2022 23:11:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Sep 2022 02:39:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-	<item>
-		<title>Contact</title>
-		<link>https://hungeo219.github.io/mywordpress/2022/09/12/contact/</link>
-					<comments>https://hungeo219.github.io/mywordpress/2022/09/12/contact/#respond</comments>
-		
-		<dc:creator><![CDATA[ngodaiminhhung]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 23:10:24 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://hungeo219.github.io/mywordpress/?p=148</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hungeo219.github.io/mywordpress/2022/09/12/contact/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Blog</title>
-		<link>https://hungeo219.github.io/mywordpress/2022/09/12/blog/</link>
-					<comments>https://hungeo219.github.io/mywordpress/2022/09/12/blog/#respond</comments>
-		
-		<dc:creator><![CDATA[ngodaiminhhung]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 23:10:14 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://hungeo219.github.io/mywordpress/?p=146</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hungeo219.github.io/mywordpress/2022/09/12/blog/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>About us</title>
-		<link>https://hungeo219.github.io/mywordpress/2022/09/12/about-us/</link>
-					<comments>https://hungeo219.github.io/mywordpress/2022/09/12/about-us/#respond</comments>
-		
-		<dc:creator><![CDATA[ngodaiminhhung]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 23:10:02 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://hungeo219.github.io/mywordpress/?p=144</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hungeo219.github.io/mywordpress/2022/09/12/about-us/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Pricing</title>
-		<link>https://hungeo219.github.io/mywordpress/2022/09/12/pricing/</link>
-					<comments>https://hungeo219.github.io/mywordpress/2022/09/12/pricing/#respond</comments>
-		
-		<dc:creator><![CDATA[ngodaiminhhung]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 23:09:43 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://hungeo219.github.io/mywordpress/?p=142</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hungeo219.github.io/mywordpress/2022/09/12/pricing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Shop</title>
-		<link>https://hungeo219.github.io/mywordpress/2022/09/12/shop/</link>
-					<comments>https://hungeo219.github.io/mywordpress/2022/09/12/shop/#respond</comments>
-		
-		<dc:creator><![CDATA[ngodaiminhhung]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 23:09:28 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://hungeo219.github.io/mywordpress/?p=140</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hungeo219.github.io/mywordpress/2022/09/12/shop/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
